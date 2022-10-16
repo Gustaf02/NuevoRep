@@ -1,4 +1,6 @@
-![image](https://user-images.githubusercontent.com/92409193/196015457-6884c9e2-758f-41bd-8008-d51c6db7b852.png)
+<h1 align=“center” >
+    ![image](https://user-images.githubusercontent.com/92409193/196016032-89470c27-6218-48a3-9ef4-c48858f692e4.png)
+</h1>
 
 # NuevoRep
 > nuevo repositorio
@@ -8,4 +10,4 @@
 > * primera frase en negrita
 > * segunda frase en cursiva
 * cambio
-![image](https://user-images.githubusercontent.com/92409193/196015801-43c94c3c-3bf1-471a-88cc-664de224554b.png)
+
