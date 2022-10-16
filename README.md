@@ -14,7 +14,7 @@
 * cambio
 
 
-<h3><em><b> Ejercicios de los integrantes del equipo según el mes <b><em><h3>
+<h4><em><b> Ejercicios de los integrantes del equipo según el mes <b><em><h4>
 <details>
     <sumary><b> Asistencia octubre: </b></sumary><br>
     <ul>
