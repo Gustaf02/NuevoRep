@@ -15,7 +15,7 @@
 
 # Ejercicios de los integrantes del equipo según el mes 
 <details>
-    <sumary><b> Asistencia octubre: </b></sumary><br>
+    <sumary><b> Asistencia octubre: </b></sumary><br/>
     <ul>
     <li> Carlos Gustavo Ortiz - Laboratorio II - Clase 9 - “Clase aritmética: resta, multiplicación y división” </li>
 <li></li>
