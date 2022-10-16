@@ -4,6 +4,9 @@
 
 
 # NuevoRep
+![image](https://user-images.githubusercontent.com/92409193/196017123-aa70fb50-c840-48d2-9678-f55244d9953b.png)
+
+
 > nuevo repositorio
 > A ver si sale este ejercicio
 > Sigo aprendiendo
