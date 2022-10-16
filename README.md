@@ -11,7 +11,7 @@
 > * segunda frase en cursiva
 * cambio
 
-# Ejercicios de los integrantes del equipo según el mes 
+# Ejercicios según el mes 
 <details>
     <sumary><b> Asistencia octubre: </b></sumary><br/>
     <ul>
