@@ -1,4 +1,4 @@
 # NuevoRep
-> nuevo repositorio
-> A ver si sale este ejercicio
-> Sigo aprendiendo
+# nuevo repositorio
+# A ver si sale este ejercicio
+# Sigo aprendiendo
