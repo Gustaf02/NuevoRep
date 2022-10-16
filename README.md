@@ -22,3 +22,6 @@
 </ul>
 </details>
 
+# Info de contacto 
+Gustavo Ortiz
+https://www.linkedin.com/feed/?midToken=AQFRMDW-2-iFPQ&midSig=1_DcMyS90Jaqc1&trk=eml-email_notification_single_search_appearance_01-header-14-home&trkEmail=eml-email_notification_single_search_appearance_01-header-14-home-null-evrdhn%7El16c7rij%7E7t-null-neptune%2Ffeed
