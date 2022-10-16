@@ -17,7 +17,7 @@
 <details>
     <sumary><b> Asistencia octubre: </b></sumary><br>
     <ul>
-   <li> Carlos Gustavo Ortiz - Laboratorio II - Clase 9 - “Clase aritmética: resta, multiplicación y división” </li>
+    <li> Carlos Gustavo Ortiz - Laboratorio II - Clase 9 - “Clase aritmética: resta, multiplicación y división” </li>
 <li></li>
 </ul>
 </details>
