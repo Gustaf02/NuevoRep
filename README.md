@@ -11,5 +11,5 @@
 * cambio
 
 <p align="center">
-  <img![image](https://user-images.githubusercontent.com/92409193/196016335-644b5197-0294-4fff-b46e-1b48b6e4461f.png) />
+  !img src="https://user-images.githubusercontent.com/92409193/196016335-644b5197-0294-4fff-b46e-1b48b6e4461f.png">
 </p>
