@@ -1,8 +1,4 @@
-                                  ![image](https://user-images.githubusercontent.com/92409193/196015457-6884c9e2-758f-41bd-8008-d51c6db7b852.png)
-
-
-
-
+![image](https://user-images.githubusercontent.com/92409193/196015457-6884c9e2-758f-41bd-8008-d51c6db7b852.png)
 
 # NuevoRep
 > nuevo repositorio
