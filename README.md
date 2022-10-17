@@ -1,6 +1,6 @@
-
+<h1 align=“center” >
 ![image](https://user-images.githubusercontent.com/92409193/196016818-5e4ec585-9194-4488-9043-06b7b430fa88.png)
-
+</h1>
 # NuevoRep
 
 > nuevo repositorio
