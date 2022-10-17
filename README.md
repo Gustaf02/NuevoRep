@@ -2,9 +2,11 @@
 <img src="https://user-images.githubusercontent.com/92409193/196229657-22fea5ad-b235-4123-98de-68f40200b6af.gif">
 </p>
 
-
-
 # NuevoRep
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/92409193/196233825-a828f4d9-c063-42d6-81cf-2854ac63e511.png">
+</p>
 
 > nuevo repositorio
 > A ver si sale este ejercicio
