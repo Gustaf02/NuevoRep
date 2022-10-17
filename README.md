@@ -1,4 +1,8 @@
-![luz](https://user-images.githubusercontent.com/92409193/196229657-22fea5ad-b235-4123-98de-68f40200b6af.gif)
+<p align="center">
+<img width="460" height="300" src="https://user-images.githubusercontent.com/92409193/196229657-22fea5ad-b235-4123-98de-68f40200b6af.gif">
+</p>
+
+
 
 # NuevoRep
 
