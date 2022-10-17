@@ -2,10 +2,12 @@
 <img src="https://user-images.githubusercontent.com/92409193/196229657-22fea5ad-b235-4123-98de-68f40200b6af.gif">
 </p>
 
-# NuevoRep
+![image](https://user-images.githubusercontent.com/92409193/196237446-707e6016-bfde-4e8c-9fec-17e76289338a.png)
+
+<h1 align="center">Grupo Hola Mundo <h1/>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/92409193/196233825-a828f4d9-c063-42d6-81cf-2854ac63e511.png">
+<img src="https://user-images.githubusercontent.com/92409193/196237446-707e6016-bfde-4e8c-9fec-17e76289338a.png">
 </p>
 
 > nuevo repositorio
