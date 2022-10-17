@@ -11,14 +11,6 @@
 <img src="https://user-images.githubusercontent.com/92409193/196237446-707e6016-bfde-4e8c-9fec-17e76289338a.png">
 </p>
 
-> nuevo repositorio
-> A ver si sale este ejercicio
-> Sigo aprendiendo
-> Tener en cuenta lo siguiente en el doc:
-> * primera frase en negrita
-> * segunda frase en cursiva
-* cambio
-
 # Ejercicios según el mes 
 <details>
     <sumary><b> Asistencia octubre: </b></sumary><br/>
