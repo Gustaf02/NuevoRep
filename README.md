@@ -2,7 +2,8 @@
 <img src="https://user-images.githubusercontent.com/92409193/196229657-22fea5ad-b235-4123-98de-68f40200b6af.gif">
 </p>
 
-![image](https://user-images.githubusercontent.com/92409193/196237446-707e6016-bfde-4e8c-9fec-17e76289338a.png)
+![image](https://user-images.githubusercontent.com/92409193/196238853-a885c461-1ff7-4c54-bc97-df85852df0e2.png)
+
 
 <h1 align="center">Grupo Hola Mundo <h1/>
 
