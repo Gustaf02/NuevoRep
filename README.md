@@ -23,11 +23,9 @@
     </ul>
 </details>
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/92409193/196229657-22fea5ad-b235-4123-98de-68f40200b6af.gif">
-</p>
 
-
+#  **PROYECTO INTEGRADOR**
+    
 ## **1. Descripción**
     
 > Palta, un delivery de comidas saludables, posee sucursales en todo el país. Nosotros somos Hola Mundo, alumnos de la UTN Regional San Rafael y los desarrolladores de este programa para esta empresa. 
@@ -64,10 +62,14 @@
 
 ## **1.3. Sistema de días**
     
-> El sistema de días presenta una importancia relevante dentro del programa.  
+> El sistema de días presenta una importancia relevante dentro del programa. 
+    
 > Si no avanza de día, simplemente podremos seguir trabajando como vimos en los ejemplos de los caminos. 
+    
 > En el caso de avanzar existen 2 opciones:
+    
 > La primera opción es que el usuario no subió los datos de las ventas, entonces se le preguntara al usuario si desea avanzar de todos modos, en caso de avanzar sin subir datos, avanza el día, y se invalida la matriz del día anterior.
+    
 > En caso de avanzar con datos subidos, se reinicia el ingreso del usuario, pero se registra que el dia anterior si se trabajó. En este mismo proceso, se registra la matriz anterior y se reinicia la nueva, para evitar errores del tipo “fuera de rango”.
 
 ## **1.4. Subprogramas:**
@@ -78,3 +80,9 @@
 > > * Reiniciar matriz: iguala los valores de los datos a 0. 
 > > * Verificación avance día: revisa que no hayan quedado espacios en blanco. 
 > > * Imprimir matriz: separa los datos por zona y representante para una visualización más gráfica y sencilla.
+    
+## **Integrantes del equipo que han trabajado en la adaptación del pseudocódigo al lenguaje de Java: 
+    
+<p align="center">
+<img src="https://user-images.githubusercontent.com/92409193/196229657-22fea5ad-b235-4123-98de-68f40200b6af.gif">
+</p>
