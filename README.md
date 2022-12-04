@@ -81,7 +81,7 @@
 > > * Verificación avance día: revisa que no hayan quedado espacios en blanco. 
 > > * Imprimir matriz: separa los datos por zona y representante para una visualización más gráfica y sencilla.
     
-## **Integrantes del equipo que han trabajado en la adaptación del pseudocódigo al lenguaje de Java: 
+## **Integrantes del equipo que han trabajado en la adaptación del pseudocódigo al lenguaje de Java:** 
     
 <p align="center">
 <img src="https://user-images.githubusercontent.com/92409193/196229657-22fea5ad-b235-4123-98de-68f40200b6af.gif">
